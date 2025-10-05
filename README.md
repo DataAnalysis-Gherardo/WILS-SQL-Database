@@ -27,3 +27,12 @@ This project demonstrates practical database design, implementation, and analyti
 After loading the database, you can run:
 SELECT * FROM v_warehouse_efficiency;
 to view the system’s live warehouse KPIs.
+
+## Database Design Evolution
+The original conceptual model is available in the file:
+[`Drawing EER - 5.pdf`](Drawing%20EER%20-%205.pdf)
+
+This EER diagram represents the initial design phase of the WILS database.  
+The final implementation (SQL scripts in this repository) expands the model with additional entities, constraints, and analytics queries for operational and business intelligence purposes.
+
+
