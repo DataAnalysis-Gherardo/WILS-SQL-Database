@@ -35,4 +35,13 @@ The original conceptual model is available in the file:
 This EER diagram represents the initial design phase of the WILS database.  
 The final implementation (SQL scripts in this repository) expands the model with additional entities, constraints, and analytics queries for operational and business intelligence purposes.
 
+## Author
+
+**Gherardo Frusci**  
+🎓 Higher Diploma in Business Systems Analysis – SETU Waterford  
+💼 Data & Process Optimisation
+📧 data.analysis.gherardo@gmail.com  
+🌍 [LinkedIn](https://www.linkedin.com/in/gherardo-frusci-biz/)
+
+
 
